@@ -95,6 +95,9 @@ Resume Screening is an efficient recruitment assistant powered by OpenAI's GPT-3
    npm run test
    ```
 
+10. To perform API testing using Postman
+    ![Postman Testing](https://github.com/patrixshah/ResumeScreening/blob/main/tests/Postman-Testing.png?raw=true)
+
 ## Usage
 
 1. Access the tool by visiting http://localhost:5000 in your browser.
