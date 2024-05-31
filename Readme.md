@@ -50,6 +50,8 @@ Resume Screening is an efficient recruitment assistant powered by OpenAI's GPT-3
     |-- /tests
     |   |-- resumeRoutes.test.ts
     |   |-- Sample-Resume.docx
+    |   |-- Sample-Resume.pdf
+    |   |-- Postman-Testing.png
     |-- .env-sample
     |-- .eslintrc.js
     |-- .prettierc
